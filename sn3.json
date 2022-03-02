@@ -3319,13 +3319,13 @@
              "iškėlusi_partija": "Tėvynės sąjunga  (Lietuvos konservatoriai)",
              "išrinkimo_būdas": "Nevėžio (Nr. 26) apygardoje",
              "kadencijų_skaičius": "2",
-             "Pareigos": {
+             "Pareigos": [{
                 "padalinio_id": "591",
                 "padalinio_pavadinimas": "Europos reikalų komitetas",
                 "pareigos": "Komiteto pirmininko pavaduotojas",
                 "data_nuo": "1997-09-18",
                 "data_iki": "1998-06-02"
-             }
+             }]
           },
           {
              "asmens_id": "56",
