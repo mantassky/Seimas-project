@@ -1,0 +1,1750 @@
+{
+    "pavadinimas": "Seimo nariai",
+    "suformavimo_laikas": "2022-03-02 17:35:38",
+    "šaltinis": "www.lrs.lt",
+    "tiekėjas": "Seimo kanceliarija",
+    "licencija": "CC BY 4.0",
+    "SeimoKadencija": {
+       "kadencijos_id": "2",
+       "SeimoNarys": [
+          {
+             "asmens_id": "44776",
+             "vardas": "Zenonas Petras",
+             "pavardė": "Adomaitis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Kelmės (Nr. 41) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "2",
+             "vardas": "Albinas",
+             "pavardė": "Albertynas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Jurbarko (Nr. 62) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "7229",
+             "vardas": "Vilija",
+             "pavardė": "Aleknaitė Abramikienė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "vialek@lrs.lt"
+                },
+                {
+                   "rūšis": "Darbo telefonas",
+                   "reikšmė": "2396711"
+                }
+             ]
+          },
+          {
+             "asmens_id": "4",
+             "vardas": "Leonas",
+             "pavardė": "Alesionka",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "5",
+             "vardas": "Nijolė",
+             "pavardė": "Ambrazaitytė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Respublikos piliečių chartija",
+             "išrinkimo_būdas": "Lazdynų (Nr. 9) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "6",
+             "vardas": "Laima Liucija",
+             "pavardė": "Andrikienė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "laima.andrikiene@lrs.lt"
+                },
+                {
+                   "rūšis": "Darbo telefonas",
+                   "reikšmė": "2396609"
+                }
+             ]
+          },
+          {
+             "asmens_id": "7",
+             "vardas": "Vytenis Povilas",
+             "pavardė": "Andriukaitis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Žirmūnų (Nr. 4) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "291",
+             "vardas": "Jonas Algirdas",
+             "pavardė": "Antanaitis",
+             "lytis": "V",
+             "data_nuo": "1995-10-14",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Vyriausioji rinkimų komisija (Nr. 100) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "8",
+             "vardas": "Kazimieras",
+             "pavardė": "Antanavičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Gargždų (Nr. 31) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "9",
+             "vardas": "Vytautas",
+             "pavardė": "Arbačiauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "10",
+             "vardas": "Vytautas",
+             "pavardė": "Astrauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Antakalnio (Nr. 3) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "11",
+             "vardas": "Arvydas",
+             "pavardė": "Bajoras",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Suvalkijos (Nr. 63) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "12",
+             "vardas": "Alvydas",
+             "pavardė": "Baležentis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvių tautininkų sąjunga",
+             "išrinkimo_būdas": "Lazdijų - Druskininkų (Nr. 71) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "13",
+             "vardas": "Juozas Gediminas",
+             "pavardė": "Baranauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Akmenės - Joniškio (Nr. 39) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "14",
+             "vardas": "Antanas",
+             "pavardė": "Baskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "15",
+             "vardas": "Juozas",
+             "pavardė": "Bastys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1995-10-03",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "16",
+             "vardas": "Julius",
+             "pavardė": "Beinortas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos krikščionių demokratų partija",
+             "išrinkimo_būdas": "Aukštaitijos (Nr. 28) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "17",
+             "vardas": "Aleksandras",
+             "pavardė": "Bendinskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "18",
+             "vardas": "Juozas",
+             "pavardė": "Bernatonis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": {
+                "rūšis": "El. p.",
+                "reikšmė": "Juozas.Bernatonis@lrs.lt"
+             }
+          },
+          {
+             "asmens_id": "19",
+             "vardas": "Egidijus",
+             "pavardė": "Bičkauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos centro judėjimas",
+             "išrinkimo_būdas": "Justiniškių (Nr. 7) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "20",
+             "vardas": "Romualdas Ignas",
+             "pavardė": "Bloškys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "21",
+             "vardas": "Kazys",
+             "pavardė": "Bobelis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvių tautinio jaunimo  sąjunga &quot;Jaunoji Lietuva&quot;",
+             "išrinkimo_būdas": "Marijampolės (Nr. 29) apygardoje",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "Kazys.Bobelis@lrs.lt"
+                },
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "kabobe@lrs.lt"
+                }
+             ]
+          },
+          {
+             "asmens_id": "22",
+             "vardas": "Vytautas",
+             "pavardė": "Bogušis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "23",
+             "vardas": "Algirdas Mykolas",
+             "pavardė": "Brazauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1992-11-24",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Kaišiadorių (Nr. 59) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "24",
+             "vardas": "Vanda",
+             "pavardė": "Briedienė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "25",
+             "vardas": "Vytautas Jurgis",
+             "pavardė": "Bubnys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Prienų (Nr. 67) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "26",
+             "vardas": "Antanas",
+             "pavardė": "Būdvytis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "27",
+             "vardas": "Vytautas Algimantas",
+             "pavardė": "Buinevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "46",
+             "vardas": "Juozas",
+             "pavardė": "Bulavas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1995-07-20",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "28",
+             "vardas": "Virgilijus Vladislovas",
+             "pavardė": "Bulovas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "29",
+             "vardas": "Sigita",
+             "pavardė": "Burbienė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Šeškinės (Nr. 6) apygardoje",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "sigita.burbiene@lrs.lt"
+                },
+                {
+                   "rūšis": "Darbo telefonas",
+                   "reikšmė": "2396619"
+                }
+             ]
+          },
+          {
+             "asmens_id": "23809",
+             "vardas": "Vladas",
+             "pavardė": "Butėnas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Šilutės (Nr. 32) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "30",
+             "vardas": "Medardas",
+             "pavardė": "Čobotas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos krikščionių demokratų partija",
+             "išrinkimo_būdas": "Naujamiesčio (Nr. 1) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "31",
+             "vardas": "Rimantas Jonas",
+             "pavardė": "Dagys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "Rimantas.Dagys@lrs.lt"
+                },
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "ridagy@lrs.lt"
+                }
+             ]
+          },
+          {
+             "asmens_id": "32",
+             "vardas": "Kęstutis",
+             "pavardė": "Dirgėla",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Danės (Nr. 19) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "48",
+             "vardas": "Juozas",
+             "pavardė": "Dringelis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "33",
+             "vardas": "Arūnas",
+             "pavardė": "Eigirdas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1993-04-13",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Vyriausioji rinkimų komisija (Nr. 100) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "267",
+             "vardas": "Vytautas",
+             "pavardė": "Einoris",
+             "lytis": "V",
+             "data_nuo": "1995-03-25",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Nenurodė",
+             "išrinkimo_būdas": "Kaišiadorių (Nr. 59) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "34",
+             "vardas": "Algirdas",
+             "pavardė": "Endriukaitis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "35",
+             "vardas": "Balys",
+             "pavardė": "Gajauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "49",
+             "vardas": "Kęstutis",
+             "pavardė": "Gaška",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Varėnos - Eišiškių (Nr. 70) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "36",
+             "vardas": "Bronislavas",
+             "pavardė": "Genzelis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "37",
+             "vardas": "Neris",
+             "pavardė": "Germanas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-10-29",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Aušros (Nr. 23) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "38",
+             "vardas": "Alfonsas",
+             "pavardė": "Giedraitis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "50",
+             "vardas": "Povilas",
+             "pavardė": "Gylys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Utenos (Nr. 51) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "39",
+             "vardas": "Petras",
+             "pavardė": "Giniotas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Marių (Nr. 21) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "40",
+             "vardas": "Algimantas Antanas",
+             "pavardė": "Greimas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Vilkaviškio (Nr. 68) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "41",
+             "vardas": "Algirdas",
+             "pavardė": "Gricius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "101",
+             "vardas": "Romualda",
+             "pavardė": "Hofertienė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1993-04-13",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Vyriausioji rinkimu komisija (Nr. 100) apygardoje",
+             "kadencijų_skaičius": "3"
+          },
+          {
+             "asmens_id": "101",
+             "vardas": "Romualda",
+             "pavardė": "Hofertienė",
+             "lytis": "M",
+             "data_nuo": "1993-07-15",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Vyriausioji rinkimu komisija (Nr. 100) apygardoje",
+             "kadencijų_skaičius": "3"
+          },
+          {
+             "asmens_id": "102",
+             "vardas": "Arvydas",
+             "pavardė": "Ivaškevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Dainų (Nr. 25) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "103",
+             "vardas": "Bronislovas",
+             "pavardė": "Jagminas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "104",
+             "vardas": "Povilas",
+             "pavardė": "Jakučionis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "105",
+             "vardas": "Juozas",
+             "pavardė": "Janonis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1993-04-13",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Vyriausioji rinkimų komisija (Nr. 100) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "106",
+             "vardas": "Egidijus",
+             "pavardė": "Jarašiūnas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-03-19",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Nevėžio (Nr. 26) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "107",
+             "vardas": "Vladimir",
+             "pavardė": "Jarmolenko",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Dainavos (Nr. 16) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "108",
+             "vardas": "Leonardas Kęstutis",
+             "pavardė": "Jaskelevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "109",
+             "vardas": "Gema",
+             "pavardė": "Jurkūnaitė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "110",
+             "vardas": "Česlovas",
+             "pavardė": "Juršėnas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Ignalinos - Švenčionių (Nr. 53) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "111",
+             "vardas": "Vytautas",
+             "pavardė": "Juškus",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-10-29",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "112",
+             "vardas": "Antanas",
+             "pavardė": "Kairys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Radviliškio (Nr. 44) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "113",
+             "vardas": "Vytautas",
+             "pavardė": "Kanapeckas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pasvalio - Panevėžio (Nr. 47) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "114",
+             "vardas": "Justinas",
+             "pavardė": "Karosas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "115",
+             "vardas": "Povilas",
+             "pavardė": "Katilius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos krikščionių demokratų partija",
+             "išrinkimo_būdas": "Kalniečių (Nr. 15) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "116",
+             "vardas": "Juozapas Algirdas",
+             "pavardė": "Katkus",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Centro (Nr. 13) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "117",
+             "vardas": "Gediminas",
+             "pavardė": "Kirkilas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "gekirk@lrs.lt"
+                },
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "Gediminas.Kirkilas@lrs.lt"
+                }
+             ]
+          },
+          {
+             "asmens_id": "118",
+             "vardas": "Feliksas",
+             "pavardė": "Kolosauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Anykščių - Kupiškio (Nr. 49) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "119",
+             "vardas": "Kazimieras Vytautas",
+             "pavardė": "Kryževičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "120",
+             "vardas": "Kęstutis",
+             "pavardė": "Kubertavičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "121",
+             "vardas": "Andrius",
+             "pavardė": "Kubilius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": {
+                "rūšis": "El. p.",
+                "reikšmė": "ankubi@lrs.lt"
+             }
+          },
+          {
+             "asmens_id": "122",
+             "vardas": "Jonas",
+             "pavardė": "Kubilius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "123",
+             "vardas": "Algirdas",
+             "pavardė": "Kunčinas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Fabijoniškių (Nr. 5) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "124",
+             "vardas": "Elvyra Janina",
+             "pavardė": "Kunevičienė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos politinių kalinių ir tremtinių sąjunga",
+             "išrinkimo_būdas": "Šilalės - Šilutės (Nr. 33) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "125",
+             "vardas": "Kazimieras",
+             "pavardė": "Kuzminskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos krikščionių demokratų partija",
+             "išrinkimo_būdas": "Panemunės (Nr. 18) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "126",
+             "vardas": "Vytautas",
+             "pavardė": "Landsbergis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "55",
+             "vardas": "Vaclovas",
+             "pavardė": "Lapė",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "127",
+             "vardas": "Tautvydas",
+             "pavardė": "Lideikis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1993-07-09",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "128",
+             "vardas": "Linas Antanas",
+             "pavardė": "Linkevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": {
+                "rūšis": "El. p.",
+                "reikšmė": "Linas.Linkevicius@lrs.lt"
+             }
+          },
+          {
+             "asmens_id": "56",
+             "vardas": "Juozas",
+             "pavardė": "Listavičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "129",
+             "vardas": "Vytautas",
+             "pavardė": "Liutikas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Telšių (Nr. 40) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "130",
+             "vardas": "Albinas",
+             "pavardė": "Lozuraitis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "131",
+             "vardas": "Ryšard",
+             "pavardė": "Maciejkianiec",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos lenkų sąjunga",
+             "išrinkimo_būdas": "Vilniaus - Trakų (Nr. 57) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "132",
+             "vardas": "Valentinas",
+             "pavardė": "Mačiulis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "57",
+             "vardas": "Stasys",
+             "pavardė": "Malkevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "133",
+             "vardas": "Rimantas",
+             "pavardė": "Markauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "134",
+             "vardas": "Nikolaj",
+             "pavardė": "Medvedev",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "135",
+             "vardas": "Leonas",
+             "pavardė": "Milčius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvių tautininkų sąjunga",
+             "išrinkimo_būdas": "Kauno - Kėdainių (Nr. 65) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "58",
+             "vardas": "Gabriel Jan",
+             "pavardė": "Mincevič",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos lenkų sąjunga",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "136",
+             "vardas": "Petras Algirdas",
+             "pavardė": "Miškinis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "137",
+             "vardas": "Alfonsas",
+             "pavardė": "Navickas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Mažeikių (Nr. 38) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "138",
+             "vardas": "Juozas",
+             "pavardė": "Nekrošius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Raseinių (Nr. 42) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "139",
+             "vardas": "Antanas",
+             "pavardė": "Nesteckis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-07-16",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "59",
+             "vardas": "Romualdas",
+             "pavardė": "Ozolas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos centro judėjimas",
+             "išrinkimo_būdas": "Saulės (Nr. 24) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "203",
+             "vardas": "Justas Vincas",
+             "pavardė": "Paleckis",
+             "lytis": "V",
+             "data_nuo": "1995-08-30",
+             "data_iki": "1995-10-13",
+             "iškėlusi_partija": "Lietuvos centro judėjimas",
+             "išrinkimo_būdas": "Saulės (Nr. 24) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "140",
+             "vardas": "Jonas",
+             "pavardė": "Pangonis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Dzūkijos (Nr. 69) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "141",
+             "vardas": "Petras",
+             "pavardė": "Papovas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2",
+             "Kontaktai": {
+                "rūšis": "El. p.",
+                "reikšmė": "petras.papovas@lrs.lt"
+             }
+          },
+          {
+             "asmens_id": "7196",
+             "vardas": "Algirdas Vaclovas",
+             "pavardė": "Patackas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Žaliakalnio (Nr. 14) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "61",
+             "vardas": "Kęstutis Povilas",
+             "pavardė": "Paukštys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Pramonės (Nr. 17) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "62",
+             "vardas": "Gediminas Adolfas",
+             "pavardė": "Paviržis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Senamiesčio (Nr. 2) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "63",
+             "vardas": "Saulius",
+             "pavardė": "Pečeliūnas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "64",
+             "vardas": "Vytautas",
+             "pavardė": "Petkevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pakruojo - Joniškio (Nr. 46) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "65",
+             "vardas": "Valdas",
+             "pavardė": "Petrauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "66",
+             "vardas": "Vytautas Petras",
+             "pavardė": "Plečkaitis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "67",
+             "vardas": "Artur",
+             "pavardė": "Plokšto",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos lenkų sąjunga",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "68",
+             "vardas": "Algirdas",
+             "pavardė": "Pocius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "292",
+             "vardas": "Zigmas",
+             "pavardė": "Povilaitis",
+             "lytis": "V",
+             "data_nuo": "1993-04-14",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Šakių (Nr. 64) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "69",
+             "vardas": "Juras",
+             "pavardė": "Požela",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "70",
+             "vardas": "Vincentas",
+             "pavardė": "Pranevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Jonavos (Nr. 60) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "71",
+             "vardas": "Mykolas",
+             "pavardė": "Pronckus",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Plungės (Nr. 35) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "72",
+             "vardas": "Antanas",
+             "pavardė": "Račas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "73",
+             "vardas": "Everistas",
+             "pavardė": "Raišuotis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Molėtų - Švenčionių (Nr. 54) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "74",
+             "vardas": "Arimantas Juvencijus",
+             "pavardė": "Raškinis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos krikščionių demokratų partija",
+             "išrinkimo_būdas": "Aleksoto -  Vilijampolės (Nr. 12) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "75",
+             "vardas": "Algirdas",
+             "pavardė": "Ražauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "300",
+             "vardas": "Virginijus",
+             "pavardė": "Ražukas",
+             "lytis": "V",
+             "data_nuo": "1993-04-14",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Vyriausioji rinkimų komisija (Nr. 100) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "37140",
+             "vardas": "Audrius",
+             "pavardė": "Rudys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1995-08-29",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "77",
+             "vardas": "Benediktas Vilmantas",
+             "pavardė": "Rupeika",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Širvintų - Vilniaus (Nr. 55) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "78",
+             "vardas": "Algirdas",
+             "pavardė": "Sadkauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-09-15",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Trakų (Nr. 58) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "79",
+             "vardas": "Aloyzas",
+             "pavardė": "Sakalas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos socialdemokratų partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "80",
+             "vardas": "Algimantas",
+             "pavardė": "Salamakinas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "Algimantas.Salamakinas@lrs.lt"
+                },
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "alsala@lrs.lt"
+                }
+             ]
+          },
+          {
+             "asmens_id": "81",
+             "vardas": "Algirdas",
+             "pavardė": "Saudargas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "82",
+             "vardas": "Vytautas",
+             "pavardė": "Saulis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Rokiškio (Nr. 50) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "83",
+             "vardas": "Zbignev",
+             "pavardė": "Semenovič",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos lenkų sąjunga",
+             "išrinkimo_būdas": "Vilniaus - Šalčininkų (Nr. 56) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "84",
+             "vardas": "Kęstutis",
+             "pavardė": "Skrebys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Nepriklausomybės partija",
+             "išrinkimo_būdas": "Vakarinėje (Nr. 27) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "85",
+             "vardas": "Karolis",
+             "pavardė": "Snežko",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-08-24",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "86",
+             "vardas": "Mindaugas",
+             "pavardė": "Stakvilevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Šiaulių kaimiškoji (Nr. 45) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "87",
+             "vardas": "Antanas Napoleonas",
+             "pavardė": "Stasiškis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "88",
+             "vardas": "Saulius",
+             "pavardė": "Šaltenis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "51",
+             "vardas": "Irena",
+             "pavardė": "Šiaulienė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Baltijos (Nr. 20) apygardoje",
+             "kadencijų_skaičius": "1",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "Irena.Siauliene@lrs.lt"
+                },
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "irsiau@lrs.lt"
+                }
+             ]
+          },
+          {
+             "asmens_id": "89",
+             "vardas": "Zita",
+             "pavardė": "Šličytė",
+             "lytis": "M",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos politinių kalinių ir tremtinių sąjunga",
+             "išrinkimo_būdas": "Tauragės (Nr. 34) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "90",
+             "vardas": "Vytautas",
+             "pavardė": "Šumakaris",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Naujosios Vilnios (Nr. 10) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "91",
+             "vardas": "Juozapas",
+             "pavardė": "Tartilas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos Krikščionių demokratų partijos, Lietuvos politinių kalinių ir tremtinių sąjungos ir Lietuvos demokratų partijos jungtinis sąrašas",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "52",
+             "vardas": "Algimantas Povilas",
+             "pavardė": "Tauras",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "92",
+             "vardas": "Mečislovas",
+             "pavardė": "Treinys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvių tautininkų sąjunga",
+             "išrinkimo_būdas": "Kauno kaimiškoji (Nr. 66) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "93",
+             "vardas": "Pranciškus",
+             "pavardė": "Tupikas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Karoliniškių (Nr. 8) apygardoje",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "94",
+             "vardas": "Kazimieras",
+             "pavardė": "Uoka",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "95",
+             "vardas": "Ignacas Stasys",
+             "pavardė": "Uždavinys",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos krikščionių demokratų partija",
+             "išrinkimo_būdas": "Kretingos (Nr. 36) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "53",
+             "vardas": "Gediminas",
+             "pavardė": "Vagnorius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "96",
+             "vardas": "Alfonsas",
+             "pavardė": "Vaišnoras",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos sąjūdis",
+             "išrinkimo_būdas": "Šilainių (Nr. 11) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "97",
+             "vardas": "Albinas",
+             "pavardė": "Vaižmužis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "",
+             "išrinkimo_būdas": "Biržų - Kupiškio (Nr. 48) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "98",
+             "vardas": "Virmantas",
+             "pavardė": "Velikonis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Kėdainių (Nr. 43) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "54",
+             "vardas": "Julius",
+             "pavardė": "Veselka",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Alytaus (Nr. 30) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "99",
+             "vardas": "Marijonas",
+             "pavardė": "Visakavičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Ukmergės (Nr. 61) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "100",
+             "vardas": "Pranciškus Stanislavas",
+             "pavardė": "Vitkevičius",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Skuodo  - Mažeikių (Nr. 37) apygardoje",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "42",
+             "vardas": "Vytautas Vidmantas",
+             "pavardė": "Zimnickas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "43",
+             "vardas": "Emanuelis",
+             "pavardė": "Zingeris",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2",
+             "Kontaktai": [
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "emzing@lrs.lt"
+                },
+                {
+                   "rūšis": "El. p.",
+                   "reikšmė": "emanuelis.zingeris@lrs.lt"
+                },
+                {
+                   "rūšis": "Darbo telefonas",
+                   "reikšmė": "2396644"
+                }
+             ]
+          },
+          {
+             "asmens_id": "44",
+             "vardas": "Juozas",
+             "pavardė": "Žebrauskas",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "1"
+          },
+          {
+             "asmens_id": "45",
+             "vardas": "Vidmantas",
+             "pavardė": "Žiemelis",
+             "lytis": "V",
+             "data_nuo": "1992-11-24",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Sąjūdžio koalicija",
+             "išrinkimo_būdas": "Pagal sąrašą",
+             "kadencijų_skaičius": "2"
+          },
+          {
+             "asmens_id": "301",
+             "vardas": "Ričardas",
+             "pavardė": "Žurinskas",
+             "lytis": "V",
+             "data_nuo": "1993-04-14",
+             "data_iki": "1996-11-22",
+             "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
+             "išrinkimo_būdas": "Pajūrio (Nr. 22) apygardoje",
+             "kadencijų_skaičius": "1"
+          }
+       ]
+    }
+ }
