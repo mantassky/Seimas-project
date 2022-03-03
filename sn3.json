@@ -4646,13 +4646,13 @@
              "iškėlusi_partija": "Tėvynės sąjunga  (Lietuvos konservatoriai)",
              "išrinkimo_būdas": "Pagal sąrašą",
              "kadencijų_skaičius": "1",
-             "Pareigos": {
+             "Pareigos": [{
                 "padalinio_id": "726",
                 "padalinio_pavadinimas": "Kultūros pakomitetis",
                 "pareigos": "Pakomitečio pirmininkas",
                 "data_nuo": "1996-11-26",
                 "data_iki": "1997-11-03"
-             }
+             }]
           },
           {
              "asmens_id": "71",
@@ -4775,13 +4775,13 @@
                 "rūšis": "El. p.",
                 "reikšmė": "Naglis.Puteikis@lrs.lt"
              },
-             "Pareigos": {
+             "Pareigos": [{
                 "padalinio_id": "5",
                 "padalinio_pavadinimas": "Biudžeto ir finansų komitetas",
                 "pareigos": "Komiteto narys",
                 "data_nuo": "1997-02-18",
                 "data_iki": "1997-04-24"
-             }
+             }]
           },
           {
              "asmens_id": "72",
@@ -5690,13 +5690,13 @@
              "iškėlusi_partija": "Lietuvos demokratinė darbo partija",
              "išrinkimo_būdas": "Pagal sąrašą",
              "kadencijų_skaičius": "1",
-             "Pareigos": {
+             "Pareigos": [{
                 "padalinio_id": "583",
                 "padalinio_pavadinimas": "Socialinių reikalų ir darbo komitetas",
                 "pareigos": "Komiteto narys",
                 "data_nuo": "1996-11-27",
                 "data_iki": "1999-03-23"
-             }
+             }]
           },
           {
              "asmens_id": "87",
