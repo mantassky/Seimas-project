@@ -3201,13 +3201,6 @@
             ],
             "Pareigos": [
                {
-                  "padalinio_id": "-1",
-                  "padalinio_pavadinimas": "",
-                  "pareigos": "Seimo Pirmininkė",
-                  "data_nuo": "2020-11-13",
-                  "data_iki": ""
-               },
-               {
                   "padalinio_id": "35",
                   "padalinio_pavadinimas": "Seimo valdyba",
                   "pareigos": "Seimo Pirmininkė",
